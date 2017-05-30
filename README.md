@@ -1,7 +1,6 @@
-# createElementFull
+# create-element-full
 
-`create-element-full` extends the capabilities of `createElement` by allowing you to specify an attribute collection and additional content to embed within the newly created element.
-If you prefer the style of `createElement` rather than using ES6 [_template literals_](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals) or the `npm` package [`markobj`](https://www.npmjs.com/package/markobj) then `create-element-full` gives you the ability to create complete, nested DOM elements more easily than with vanilla js syntax alone.
+`create-element-full` extends the capabilities of `createElement` by allowing you to specify an attribute collection and additional content to embed within the newly created element. If you prefer the style of `createElement` rather than using ES6 [_template literals_](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals) or the `npm` package [`markobj`](https://www.npmjs.com/package/markobj) then `create-element-full` gives you the ability to create complete, nested DOM elements more easily than with vanilla js syntax alone.
 
 
 ## Install

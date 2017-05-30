@@ -1,6 +1,6 @@
 {
   "name": "create-element-full",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Works like createElement, but with the added ability to specify attributes and content at creation time.",
   "main": "create-element-full.js",
   "scripts": {
